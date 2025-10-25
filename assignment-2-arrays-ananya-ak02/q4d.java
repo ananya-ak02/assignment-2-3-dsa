@@ -7,6 +7,7 @@ class SortStrings {
         for(int i=0;i<n;i++) arr[i]=sc.next();
         Arrays.sort(arr);
         for(String x:arr) System.out.print(x+" ");
+        sc.close();
     }
 }
 

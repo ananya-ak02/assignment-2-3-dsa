@@ -14,5 +14,6 @@ class BinarySearch {
             else r=m-1;
         }
         System.out.println(ans);
+        sc.close();
     }
 }

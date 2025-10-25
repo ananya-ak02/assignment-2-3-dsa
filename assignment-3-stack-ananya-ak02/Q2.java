@@ -33,6 +33,7 @@ public class Q2 {
         String rev = "";
         while (!s.isEmpty()) rev += s.pop();
         System.out.println(rev);
+        sc.close();
     }
 }
 

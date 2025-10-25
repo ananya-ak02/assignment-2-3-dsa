@@ -45,6 +45,7 @@ public class Q3 {
         if (!s.isEmpty()) ok = false;
         if (ok) System.out.println("Balanced");
         else System.out.println("Not Balanced");
+        sc.close();
     }
 }
 

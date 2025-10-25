@@ -8,6 +8,7 @@ class DeleteVowels {
             if("aeiouAEIOU".indexOf(c)==-1) r+=c;
         }
         System.out.println(r);
+        sc.close();
     }
 }
 

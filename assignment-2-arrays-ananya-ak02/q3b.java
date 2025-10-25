@@ -12,6 +12,7 @@ class MissingBinary {
             else r=m-1;
         }
         System.out.println(l+1);
+        sc.close();
     }
 }
 

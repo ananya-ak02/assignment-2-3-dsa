@@ -8,6 +8,7 @@ class MissingLinear {
         int sum=n*(n+1)/2,s=0;
         for(int x:arr) s+=x;
         System.out.println(sum-s);
+        sc.close();
     }
 }
 

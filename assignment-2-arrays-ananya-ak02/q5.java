@@ -68,5 +68,6 @@ class SpecialMatrices {
                 System.out.println();
             }
         }
+        sc.close();
     }
 }

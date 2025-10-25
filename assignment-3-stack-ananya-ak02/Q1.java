@@ -79,5 +79,6 @@ public class Q1 {
                 break;
             }
         }
+        sc.close();
     }
 }

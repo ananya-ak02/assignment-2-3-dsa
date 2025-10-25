@@ -66,5 +66,6 @@ public class Q4 {
         Scanner sc = new Scanner(System.in);
         String exp = sc.nextLine();
         System.out.println(infixToPostfix(exp));
+        sc.close();
     }
 }

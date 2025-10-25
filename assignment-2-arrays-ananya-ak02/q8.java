@@ -8,6 +8,7 @@ class DistinctElements {
         Set<Integer> s=new HashSet<>();
         for(int x:arr) s.add(x);
         System.out.println(s.size());
+        sc.close();
     }
 }
 
